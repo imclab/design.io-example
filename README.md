@@ -1,6 +1,6 @@
 # Example App for [Design.io](https://github.com/viatropos/design.io)
 
-[Here's a video tutorial](http://vimeo.com/31589739).
+[![Here's a video tutorial on vimeo](http://i.imgur.com/JunAS.png)](http://player.vimeo.com/video/31589739?title=0&amp;byline=0&amp;portrait=0&autoplay=true)
 
 First, clone this app.
 
