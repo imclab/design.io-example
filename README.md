@@ -1,4 +1,6 @@
-# Example App for Design.io
+# Example App for [Design.io](https://github.com/viatropos/design.io)
+
+[Here's a video tutorial](http://vimeo.com/31589739).
 
 First, clone this app.
 
