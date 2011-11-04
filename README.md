@@ -1,19 +1,21 @@
 # Example App for Design.io
 
-## Run it
-
-First, make sure you have `design.io` installed:
+First, clone this app.
 
 ```
-npm install design.io
+git clone https://github.com/viatropos/design.io-example.git
 ```
 
-Then `cd` into the example project and start the basic node.js server:
+Then `cd` into the example project and install design.io and friends:
 
 ```
-git clone https://github.com/viatropos/design.io.git
-cd design.io/example
+cd design.io-example
 npm install
+```
+
+Next, start the server:
+
+```
 node server.js
 ```
 
